@@ -1,0 +1,6 @@
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\obj\Debug\DeveloperTask281217.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\bin\Debug\DeveloperTask281217.exe.config
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\bin\Debug\DeveloperTask281217.exe
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\bin\Debug\DeveloperTask281217.pdb
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\obj\Debug\DeveloperTask281217.exe
+D:\GitHubProjects\DeveloperTask281217\DeveloperTask281217\DeveloperTask281217\obj\Debug\DeveloperTask281217.pdb
